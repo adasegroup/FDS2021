@@ -21,3 +21,5 @@
 <p>10. <a class="inline_disabled" href="https://www.dropbox.com/s/jti22tki9rq8p43/Lecture_10.mp4?dl=0" target="_blank" rel="noopener">CRM personalization</a>&nbsp;</p>
 <p>11. <a class="inline_disabled" href="https://www.dropbox.com/s/ml2odmpbtzrg6b9/Lecture_11.mp4?dl=0" target="_blank" rel="noopener">CLTV</a>
 </p>
+<p>12. <a class="inline_disabled" href="https://www.dropbox.com/s/0bus3sttacuemz1/Lecture_12.mp4?dl=0" target="_blank" rel="noopener">Sequential models</a>
+</p>
