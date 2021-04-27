@@ -23,3 +23,5 @@
 </p>
 <p>12. <a class="inline_disabled" href="https://www.dropbox.com/s/0bus3sttacuemz1/Lecture_12.mp4?dl=0" target="_blank" rel="noopener">Sequential models</a>
 </p>
+<p>13. <a class="inline_disabled" href="https://www.dropbox.com/s/lisqjnsp5d3uqor/Lecture_13.mp4?dl=0" target="_blank" rel="noopener noreferrer">Uncertainty estimation</a>
+</p>
