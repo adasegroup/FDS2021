@@ -32,3 +32,6 @@
 
 <p>16. <a class="inline_disabled" href="https://www.dropbox.com/s/9b315mi59cvu59k/Lecture_16.mp4?dl=0" target="_blank" rel="noopener noreferrer">Competative data analysis</a>
 </p>
+
+<p>17. <a class="inline_disabled" href="https://www.dropbox.com/s/r535li52032kepr/Lecture_17.mp4?dl=0" target="_blank" rel="noopener noreferrer">Neurotechnologies and Machine Learning</a>
+</p>
