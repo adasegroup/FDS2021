@@ -37,3 +37,4 @@
 </p>
 <p>18. Speech systems <a class="inline_disabled" href="https://www.dropbox.com/s/pi63lfgbxd2t3o3/Lecture_18_part_1.mp4?dl=0" target="_blank" rel="noopener noreferrer">part_1</a>&nbsp; <a class="inline_disabled" href="https://www.dropbox.com/s/6k27pyqnst9kbsy/Lecture_18_part_2.mp4?dl=0" target="_blank" rel="noopener noreferrer">part_2</a>
 </p>
+<p>19. <a class="inline_disabled" href="https://www.dropbox.com/s/75ydvwohz5sjse6/Lecture_19.mp4?dl=0" target="_blank" rel="noopener noreferrer">Video processing</a>&nbsp;</p>
